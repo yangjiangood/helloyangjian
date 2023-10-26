@@ -7,3 +7,6 @@ const bug = () => {
 const axios = () => {
   console.log(2222);
 }
+const add = (a,b) => {
+  return a + b
+}
