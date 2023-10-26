@@ -4,3 +4,6 @@ const fn = () => {
 const bug = () => {
   console.log('修复bug');
 }
+const axios = () => {
+  console.log(2222);
+}
